@@ -1,2 +1,4 @@
-# RIHP-Net-Rotation-Invariant-Hyperspectral-Image-Classification
+# RIHP-Net
 RIHP-Net: Rotation-Invariant Hyperspectral Image Classification
+
+coming soon..
